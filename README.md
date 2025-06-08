@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi, I’m Aditya mate<br> I’m frontend webdeveloper<br> I'm currently working on react js and next js<br> explore my profile and collabrate with me and make your project the<br> best ever.
+👋 Hi, I’m Aditya mate<br> I’m fullstack webdeveloper<br> I'm currently working on react js and next js<br> explore my profile and collabrate with me and make your project the<br> best ever.
 
 
 ## 🌐 Socials:
